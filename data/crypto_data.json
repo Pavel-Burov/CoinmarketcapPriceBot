@@ -1,0 +1,65 @@
+{
+    "last_update": "2024-11-12T12:45:47.550574",
+    "data": [
+        {
+            "name": "Bitcoin",
+            "price": "$86,713.10",
+            "change_24h": "5.28%",
+            "volume": "$155,568,016,480"
+        },
+        {
+            "name": "Ethereum",
+            "price": "$3,238.72",
+            "change_24h": "1.66%",
+            "volume": "$68,081,891,017"
+        },
+        {
+            "name": "Tether",
+            "price": "$1.00",
+            "change_24h": "0.01%",
+            "volume": "$289,136,490,127"
+        },
+        {
+            "name": "Solana",
+            "price": "$209.25",
+            "change_24h": "3.65%",
+            "volume": "$11,998,658,157"
+        },
+        {
+            "name": "BNB",
+            "price": "$625.51",
+            "change_24h": "0.29%",
+            "volume": "$4,025,383,833"
+        },
+        {
+            "name": "Dogecoin",
+            "price": "$0.3867",
+            "change_24h": "33.56%",
+            "volume": "$35,881,524,768"
+        },
+        {
+            "name": "XRP",
+            "price": "$0.6544",
+            "change_24h": "11.86%",
+            "volume": "$7,797,846,122"
+        },
+        {
+            "name": "USDC",
+            "price": "$0.9997",
+            "change_24h": "0.01%",
+            "volume": "$22,014,941,350"
+        },
+        {
+            "name": "Cardano",
+            "price": "$0.5769",
+            "change_24h": "4.05%",
+            "volume": "$3,419,399,606"
+        },
+        {
+            "name": "Shiba Inu",
+            "price": "$0.00002606",
+            "change_24h": "0.95%",
+            "volume": "$6,252,499,170"
+        }
+    ]
+}
